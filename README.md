@@ -1,4 +1,4 @@
-# Simple-Publiction-Server-Client
+# Simple-Publication-Server-Client
 
 This is a simple program utilizing server-client architecture.
 
